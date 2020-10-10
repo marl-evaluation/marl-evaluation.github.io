@@ -24,13 +24,13 @@
         </tr>
         <tr>
             <th>15:00 - 15:30</th>
-            <th>A Glance of Game AI Evaluation</th>
+            <th></th>
             <th>Yaodong Yang</th>
         </tr>
         <tr>
             <th>15:30 - 16:00</th>
-            <th>A Glance of Game AI Evaluation</th>
-            <th>Yushan Zhou</th>
+            <th></th>
+            <th></th>
         </tr>
 </table>
 
