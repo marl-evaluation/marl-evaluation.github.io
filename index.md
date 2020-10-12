@@ -3,14 +3,14 @@
 ### Date and Location
 
 - Date: Oct 25 14:00-16:00, 2020
-- Online: bilibili 直播
+- Online: bilibili 
 
 ### Schedule
 <table>
         <tr>
             <th>Time</th>
             <th>Talk</th>
-            <th>Invitor</th>
+            <th>Speaker</th>
         </tr>
         <tr>
             <th>14:00 - 14:30</th>
@@ -35,6 +35,8 @@
 </table>
 
 ### Invited Talks
+**Talk 1:**  <i>Glance of Game AI Evaluation</i>
+
 **Bio**
 
 <img src="/image/zhouyushan.png" height="200" width="150" style="float: left;margin-right: 30px; margin-bottom: 30px " alt="yushan zhou" />
@@ -46,6 +48,11 @@ Yushan Zhou is currently studying in the third year of master's degree in AI Lab
 
 
 xxx
+
+
+---
+
+**Talk 2:**  <i>Critical Review of Multi-agent Evaluation</i>
 
 
 **Bio**
@@ -63,6 +70,11 @@ Xue Yan is a senior student in Shandong University, majoring in computer science
 xxx
 
 
+---
+
+**Talk 3:**  <i> </i>
+
+
 **Bio**
 
 <a href="https://www.yangyaodong.com/" target="_blank"><img src="/image/yaodong.jpg" height="200" width="150" style="float: left;margin-right: 30px; margin-bottom: 30px " alt="teacher 杨耀东" /></a>
@@ -71,5 +83,21 @@ I am a machine learning researcher focusing on reinforcement learning, multi-age
 
 
 **Abstract**
+
+xxx
+
+---
+
+**Talk 4:**  <i> </i>
+
+
+**Bio**
+
+
+xxx
+
+
+**Abstract**
+
 
 xxx
