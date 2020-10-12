@@ -38,7 +38,7 @@
 **Bio**
 
 <img src="/image/zhouyushan.png" height="200" width="150" style="float: left;margin-right: 30px; margin-bottom: 30px " alt="yushan zhou" />
-<p style="text-align:justify; text-justify:inter-ideograph;color: black">Yushan Zhou <br />
+<p style="text-align:justify; text-justify:inter-ideograph;color: black"><strong>Yushan Zhou </strong> <br />
 Yushan Zhou is currently studying in the third year of master's degree in AI Lab, School of Electronics Engineering and Computer Science, Peking University. She focuses on Botzone (www.botzone.org.cn), a universal online multi-agent game AI platform, designed to evaluate different implementations of game AI by applying them to agents and compete with each other, featuring an ELO ranking system and a contest system for users to evaluate their AI programs. She has held seven multi-agent game AI competitions on Botzone. This year, as a student chair, she is currently organizing IJCAI 2020 Mahjong AI Competition, held as part of IJCAI-PRICAI 2020.
 <br /></p>
 
@@ -51,9 +51,9 @@ xxx
 **Bio**
 
 <img src="" height="200" width="150" style="float: left;margin-right: 30px; margin-bottom: 30px " alt="Xue Yan " />
-<p style="text-align:justify; text-justify:inter-ideograph;color: black">Xue Yan <br />
+<p style="text-align:justify; text-justify:inter-ideograph;color: black"><strong>Xue Yan </strong><br />
 Xue Yan is a senior student in Shandong University, majoring in computer science and technology. She will go to the Institute of Automation, Chinese Academy of Sciences in 2021 to pursue her doctoral degree. Her research interest is multi-agent reinforcement learning.
-<br /></p>
+<br /><br /><br /></p>
 
 
 
