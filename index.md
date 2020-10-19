@@ -19,13 +19,13 @@
         </tr>
         <tr>
             <th>15:00 - 16:00</th>
-            <th>Critical Review of Multi-agent Evaluation</th>
-            <th>Xue Yan</th>
+            <th></th>
+            <th>Yaodong Yang</th>
         </tr>
         <tr>
             <th>16:00 - 17:00</th>
-            <th></th>
-            <th>Yaodong Yang</th>
+            <th>Critical Review of Multi-agent Evaluation</th>
+            <th>Xue Yan</th>
         </tr>
 
 </table>
@@ -42,33 +42,13 @@ Yushan Zhou is currently studying in the third year of master's degree in AI Lab
 
 **Abstract**
 
-
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">
 Intelligence exists when we measure it! A game-based AI competition explicitly depicts our imagination of intelligence, therefore recently, holding this kind of competition is quite popular in AI conferences such as AAAI and IJCAI. With its straightforward and accurate definition of problems, unified platform environment, fair performance assessment mechanism, open data set, and benchmark, game-based AI competition has attracted many researchers, thus accelerating the development of AI technology. There is a new trend of game-based competitions to be hosted on an online platform, and this will encourage researchers and fans of AI to continuously work on a task and share information at any time. In this trend, we are facing the problem of evaluating an enormous amount of bots quickly and fairly. Having held more than 10 multi-agent game AI competitions on Botzone platform, we have experience in choosing an appropriate contest system in games like FightTheLandlord and Chinese Standard Mahjong. Specifically, we are holding IJCAI Mahjong AI Competition this year, and there are two stages, a practice round and a competitive round. In both rounds, we adopt Swiss-round with Duplicate Format tournament.
+</p>
 
 ---
 
 **Talk 2:**  <i>Critical Review of Multi-agent Evaluation</i>
-
-
-**Bio**
-
-<img src="/image/yanxue.jpeg" height="200" width="150" style="float: left;margin-right: 30px; margin-bottom: 30px " alt="Xue Yan " />
-<p style="text-align:justify; text-justify:inter-ideograph;color: black"><strong>Xue Yan </strong><br />
-Xue Yan is a senior student in Shandong University, majoring in computer science and technology. She will go to the Institute of Automation, Chinese Academy of Sciences in 2021 to pursue her doctoral degree. Her research interest is multi-agent reinforcement learning.
-<br /><br /><br /><br /><br /></p>
-
-
-
-**Abstract**
-
-
-We are investigating some classic Evaluation methods in the field of reinforcement learning and tried to analyze the applicable scenarios, advantages and disadvantages of these methods. Evaluations based on Elo or α-Rank typically assume complete game information, despite the data often being collected from noisy simulations, making this assumption unrealistic in practice. We review multiagent evaluation in the incomplete information regime . Our survey focuses on precise sample bounds which describe how many data samples are required to achieve a good approximation . At the same time, we are interested in adaptive sample algorithm for selecting agent interactions in an efficient manner for accurate evaluation.
-
-
----
-
-**Talk 3:**  <i> </i>
-
 
 **Bio**
 
@@ -80,4 +60,25 @@ I am a machine learning researcher focusing on reinforcement learning, multi-age
 **Abstract**
 
 xxx
+
+
+---
+
+**Talk 3:**  <i> </i>
+
+**Bio**
+
+<img src="/image/yanxue.jpeg" height="200" width="150" style="float: left;margin-right: 30px; margin-bottom: 30px " alt="Xue Yan " />
+<p style="text-align:justify; text-justify:inter-ideograph;color: black"><strong>Xue Yan </strong><br />
+Xue Yan is a senior student in Shandong University, majoring in computer science and technology. She will go to the Institute of Automation, Chinese Academy of Sciences in 2021 to pursue her doctoral degree. Her research interest is multi-agent reinforcement learning.
+<br /><br /><br /><br /></p>
+
+
+
+**Abstract**
+
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">
+We are investigating some classic Evaluation methods in the field of reinforcement learning and tried to analyze the applicable scenarios, advantages and disadvantages of these methods. Evaluations based on Elo or α-Rank typically assume complete game information, despite the data often being collected from noisy simulations, making this assumption unrealistic in practice. We review multiagent evaluation in the incomplete information regime . Our survey focuses on precise sample bounds which describe how many data samples are required to achieve a good approximation . At the same time, we are interested in adaptive sample algorithm for selecting agent interactions in an efficient manner for accurate evaluation.
+</p>
+
 
