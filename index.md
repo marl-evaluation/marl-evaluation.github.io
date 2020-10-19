@@ -2,7 +2,7 @@
 
 ### Date and Location
 
-- Date: Oct 25 14:00-16:00, 2020
+- Date: Oct 25 14:00-17:00, 2020
 - Online: bilibili 
 
 ### Schedule
@@ -13,25 +13,21 @@
             <th>Speaker</th>
         </tr>
         <tr>
-            <th>14:00 - 14:30</th>
+            <th>14:00 - 15:00</th>
             <th>A Glance of Game AI Evaluation</th>
             <th>Yushan Zhou</th>
         </tr>
         <tr>
-            <th>14:30 - 15:00</th>
+            <th>15:00 - 16:00</th>
             <th>Critical Review of Multi-agent Evaluation</th>
             <th>Xue Yan</th>
         </tr>
         <tr>
-            <th>15:00 - 15:30</th>
+            <th>16:00 - 17:00</th>
             <th></th>
             <th>Yaodong Yang</th>
         </tr>
-        <tr>
-            <th>15:30 - 16:00</th>
-            <th></th>
-            <th></th>
-        </tr>
+
 </table>
 
 ### Invited Talks
@@ -86,18 +82,3 @@ I am a machine learning researcher focusing on reinforcement learning, multi-age
 
 xxx
 
----
-
-**Talk 4:**  <i> </i>
-
-
-**Bio**
-
-
-xxx
-
-
-**Abstract**
-
-
-xxx
