@@ -52,7 +52,7 @@ Intelligence exists when we measure it! A game-based AI competition explicitly d
 
 **Bio**
 
-<img src="" height="200" width="150" style="float: left;margin-right: 30px; margin-bottom: 30px " alt="Xue Yan " />
+<img src="/image/yanxue.jpeg" height="200" width="150" style="float: left;margin-right: 30px; margin-bottom: 30px " alt="Xue Yan " />
 <p style="text-align:justify; text-justify:inter-ideograph;color: black"><strong>Xue Yan </strong><br />
 Xue Yan is a senior student in Shandong University, majoring in computer science and technology. She will go to the Institute of Automation, Chinese Academy of Sciences in 2021 to pursue her doctoral degree. Her research interest is multi-agent reinforcement learning.
 <br /><br /><br /><br /><br /></p>
