@@ -17,7 +17,7 @@
         </tr>
         <tr>
             <th>15:00 - 16:00</th>
-            <th></th>
+            <th>An overview of evaluation methods in Games</th>
             <th>Yaodong Yang</th>
         </tr>
         <tr>
@@ -46,7 +46,7 @@ Intelligence exists when we measure it! A game-based AI competition explicitly d
 
 ---
 
-**Talk 2:**  
+**Talk 2:**  An overview of evaluation methods in Games
 
 **Bio**
 
@@ -57,8 +57,9 @@ I am a machine learning researcher focusing on reinforcement learning, multi-age
 
 **Abstract**
 
-xxx
-
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">
+Evaluating policies in the GAME AI design is non-trivial due to the fact that a game can contain both transitive components and non-transitive component. In this talk, I will briefly reviewed recent metric including ELo, Nash equilibrium, Replicator dynamics, and alpha-rank, with their pros and cons on GAME AI evaluation
+</p>
 
 ---
 
