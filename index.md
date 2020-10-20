@@ -24,14 +24,14 @@
         </tr>
         <tr>
             <th>16:00 - 17:00</th>
-            <th>Critical Review of Multi-agent Evaluation</th>
+            <th>A Critical Review of Multi-agent Evaluation</th>
             <th>Xue Yan</th>
         </tr>
 
 </table>
 
 ### Invited Talks
-**Talk 1:**  Glance of Game AI Evaluation
+**Talk 1:**  A Glance of Game AI Evaluation
 
 **Bio**
 
@@ -64,7 +64,7 @@ xxx
 
 ---
 
-**Talk 3:**  Critical Review of Multi-agent Evaluation
+**Talk 3:** A Critical Review of Multi-agent Evaluation
 
 **Bio**
 
