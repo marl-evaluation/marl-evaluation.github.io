@@ -1,5 +1,3 @@
-## 1st Workshop on Evaluation in Multi-agent Reinforcement Learning
-
 ### Date and Location
 
 - Date: Oct 25 14:00-17:00, 2020
