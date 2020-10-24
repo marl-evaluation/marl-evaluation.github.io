@@ -16,7 +16,7 @@
         </tr>
         <tr>
             <th>14:00 - 15:00</th>
-            <th>A Glance of Game AI Evaluation</th>
+            <th>Sharing on Multi-player game AI Evaluation</th>
             <th>Yushan Zhou</th>
         </tr>
         <tr>
@@ -33,7 +33,7 @@
 </table>
 
 ### Invited Talks
-**Talk 1:**  A Glance of Game AI Evaluation
+**Talk 1:**  Sharing on Multi-player game AI Evaluation
 
 **Bio**
 
