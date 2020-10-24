@@ -5,7 +5,7 @@
 ### Date and Location
 
 - Date: Oct 25 14:00-17:00, 2020
-- Online: Bilibili 
+- Online: DAI 2020 (https://dai2020.163.com/m/#live)
 
 ### Schedule
 <table>
