@@ -1,12 +1,11 @@
 ### Organizer
-Haifeng Zhang, Institute of Automation, Chinese Academy of Sciences
-
-Jun Wang, University College Londoon
+- Haifeng Zhang, Institute of Automation, Chinese Academy of Sciences
+- Jun Wang, University College Londoon
 
 ### Date and Location
 
 - Date: Oct 25 14:00-17:00, 2020
-- Online: bilibili 
+- Online: Bilibili 
 
 ### Schedule
 <table>
