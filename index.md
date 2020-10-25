@@ -18,12 +18,12 @@
         </tr>
         <tr>
             <th>14:00 - 15:00</th>
-            <th>Sharing on Multi-player game AI Evaluation</th>
+            <th>Sharing on Multi-player Game AI Evaluation</th>
             <th>Yushan Zhou</th>
         </tr>
         <tr>
             <th>15:00 - 16:00</th>
-            <th>An overview of evaluation methods in Games</th>
+            <th>An Overview of Evaluation Methods in Games</th>
             <th>Yaodong Yang</th>
         </tr>
         <tr>
@@ -35,7 +35,7 @@
 </table>
 
 ### Invited Talks
-**Talk 1:**  Sharing on Multi-player game AI Evaluation
+**Talk 1:**  Sharing on Multi-player Game AI Evaluation
 
 **Bio**
 
@@ -52,7 +52,7 @@ Intelligence exists when we measure it! A game-based AI competition explicitly d
 
 ---
 
-**Talk 2:**  An overview of evaluation methods in Games
+**Talk 2:**  An Overview of Evaluation Methods in Games
 
 **Bio**
 
