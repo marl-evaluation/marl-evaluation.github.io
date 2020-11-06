@@ -18,17 +18,17 @@
         </tr>
         <tr>
             <th>14:00 - 15:00</th>
-            <th>Sharing on Multi-player Game AI Evaluation (<a href="/DAI2020-workshop-zhouyushan.pdf" target="_blank">Download</a>)</th>
+            <th>Sharing on Multi-player Game AI Evaluation (<a href="/DAI2020-workshop-zhouyushan.pdf" target="_blank">Slides</a>)</th>
             <th>Yushan Zhou</th>
         </tr>
         <tr>
             <th>15:00 - 16:00</th>
-            <th>An Overview of Evaluation Methods in Games (<a href="/DAI2020-workshop-yangyaodong.pdf" target="_blank">Download</a>)</th>
+            <th>An Overview of Evaluation Methods in Games (<a href="/DAI2020-workshop-yangyaodong.pdf" target="_blank">Slides</a>)</th>
             <th>Yaodong Yang</th>
         </tr>
         <tr>
             <th>16:00 - 17:00</th>
-            <th>A Critical Review of Multi-agent Evaluation (<a href="/DAI2020-workshop-yanxue.pdf" target="_blank">Download</a>)</th>
+            <th>A Critical Review of Multi-agent Evaluation (<a href="/DAI2020-workshop-yanxue.pdf" target="_blank">Slides</a>)</th>
             <th>Xue Yan</th>
         </tr>
 
